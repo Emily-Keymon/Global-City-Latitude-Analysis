@@ -14,7 +14,7 @@ body {
   /* Typography */
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
-  /* Visual */
+    /* Visual */
   background-color: #ededed;
 }
 
@@ -50,7 +50,7 @@ body {
   color: #fff;
 
   /* Visual */
-  background: #4aaaa5;
+  background: #B22222;
 }
 
 /* Logo hover state */
@@ -71,13 +71,13 @@ body {
 
 /* Nav element hover state */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: #B22222;
 }
 
 /* Media query for nav */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #4aaaa5;
+    background-color: #B22222;
   }
 
   #logo {
@@ -98,7 +98,7 @@ body {
     color: #fff;
 
     /* Visual */
-    background: #4aaaa5;
+    background: #B22222;
   }
 }
 
@@ -113,7 +113,7 @@ body {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #B22222;
 }
 
 .description-content {
@@ -189,7 +189,7 @@ body {
   /* Typography */
   font-size: 25px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #B22222;
 }
 
 .imageNav-photo {
@@ -206,7 +206,7 @@ body {
 
 .imageNav-photo.active {
   /* Visuals */
-  border: 2px solid #4aaaa5;
+  border: 2px solid #B22222;
 }
 
 #images {
@@ -232,7 +232,7 @@ body {
   /* Typography */
   font-size: 20px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #B22222;
   text-align: center;
 }
 
@@ -267,7 +267,7 @@ body {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #B22222;
 }
 
 /* ----FOOTER END---- */
