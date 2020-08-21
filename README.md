@@ -2,9 +2,10 @@
 
 # Web Design - Web Visualization Dashboard
 
-## Does the weather change the closer you get to the equator? Let's use data to find out! A Python script was written to visualize the weather of over 500 cities across the world with varying distances from the equator. This dataset was assembled using an OpenWeatherMap API call. 
-
-## Once the data was gathered, Matplotlib, a Python library, was used to plot max temperature, humidity, cloudiness and wind speed vs the city's latitude. 
+## Does the weather change the closer you get to the equator? Let's use data to find out! 
+A Python script was written to visualize the weather of over 500 cities across the world with varying distances from the equator. 
+This dataset was assembled using an OpenWeatherMap API call. 
+Once the data was gathered, Matplotlib, a Python library, was used to plot max temperature, humidity, cloudiness and wind speed vs the city's latitude. 
 
 ## The website consist of 7 pages total, including:
 
