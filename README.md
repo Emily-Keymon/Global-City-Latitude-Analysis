@@ -1,6 +1,6 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Click here for website:  https://emily-keymon.github.io/Web-Design-Challenge/
 
-https://emily-keymon.github.io/Web-Design-Challenge/
+# Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
