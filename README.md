@@ -11,7 +11,7 @@ Once the data was gathered, Matplotlib, a Python library, was used to plot max t
 
 * A landing-page containing:
   * An explanation of the project.
-  * Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
+  * Links to each visualizations page. A sidebar containing preview images of each plot. Clicking an image takes the user to that visualization.
 * Four visualization-pages, each with:
   * A descriptive title and heading tag.
   * The plot/visualization itself for the selected comparison.
