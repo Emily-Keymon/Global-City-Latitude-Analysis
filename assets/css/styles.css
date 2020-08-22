@@ -197,8 +197,10 @@ body {
 .imageNav-photo {
   width: 140px;
 
-  /* Box-model */
+   /* Box-model */
   height: 140px;
+  border: 1px solid #B22222;
+  margin: 1px
 }
 
 .imageNav-photo:hover {
