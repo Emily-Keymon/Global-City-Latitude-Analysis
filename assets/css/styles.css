@@ -33,7 +33,7 @@ body {
 /* ----NAV START---- */
 .navbar-custom {
       background-color: #A0A0A0;
-}
+    }
 
 #logo {
   /* Box-model */
@@ -100,7 +100,8 @@ body {
 
     /* Visual */
     background: #B22222;
-  }
+
+     }
 }
 
 /* -----NAV END---- */
@@ -112,7 +113,7 @@ body {
   font-family: Monospace;
 
   /* Typography */
-  font-size: 32px;
+  font-size: 28px;
   font-weight: bold;
   color: #B22222;
 }
