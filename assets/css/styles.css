@@ -12,10 +12,11 @@ body {
   margin-bottom: 150px;
 
   /* Typography */
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Lucida Console", Monaco, monospace;
+
 
     /* Visual */
-  background-color: #ededed;
+  background-color: #626262;
 }
 
 /* Media query for body */
@@ -31,7 +32,7 @@ body {
 
 /* ----NAV START---- */
 .navbar-custom {
-  background-color: #A0A0A0;
+      background-color: #A0A0A0;
 }
 
 #logo {
@@ -42,7 +43,7 @@ body {
 
   /* Positioning */
   margin-left: 70px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Monospace;
 
   /* Typography */
   font-size: 24px;
@@ -65,7 +66,7 @@ body {
   padding-right: 20px;
 
   /* Typography */
-  font-family: Arial;
+  font-family: Monospace;
   font-weight: lighter;
 }
 
@@ -90,7 +91,7 @@ body {
 
     /* Positioning */
     margin-left: 0;
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Monospace;
 
     /* Typography */
     font-size: 24px;
@@ -108,7 +109,7 @@ body {
 .description-header {
   /* Positioning */
   margin-bottom: 33px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Monospace;
 
   /* Typography */
   font-size: 32px;
@@ -184,7 +185,7 @@ body {
 .imageNav-header {
   /* Positioning */
   margin-bottom: 15px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Monospace;
 
   /* Typography */
   font-size: 25px;
@@ -227,7 +228,7 @@ body {
 .comparison-header {
   /* Positioning */
   margin-bottom: 10px;
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Monospace;
 
   /* Typography */
   font-size: 20px;
