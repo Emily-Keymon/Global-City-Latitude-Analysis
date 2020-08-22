@@ -12,7 +12,7 @@ body {
   margin-bottom: 150px;
 
   /* Typography */
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: "Gill Sans", sans-serif;
 
 
     /* Visual */
@@ -43,7 +43,7 @@ body {
 
   /* Positioning */
   margin-left: 70px;
-  font-family: Monospace;
+  font-family: "Gill Sans", sans-serif;
 
   /* Typography */
   font-size: 24px;
@@ -66,8 +66,8 @@ body {
   padding-right: 20px;
 
   /* Typography */
-  font-family: Monospace;
-  font-weight: lighter;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: darker;
 }
 
 /* Nav element hover state */
@@ -91,7 +91,7 @@ body {
 
     /* Positioning */
     margin-left: 0;
-    font-family: Monospace;
+    font-family: "Gill Sans", sans-serif;
 
     /* Typography */
     font-size: 24px;
@@ -110,7 +110,7 @@ body {
 .description-header {
   /* Positioning */
   margin-bottom: 33px;
-  font-family: Monospace;
+  font-family: "Gill Sans", sans-serif;
 
   /* Typography */
   font-size: 28px;
@@ -186,10 +186,10 @@ body {
 .imageNav-header {
   /* Positioning */
   margin-bottom: 15px;
-  font-family: Monospace;
+  font-family: "Gill Sans", sans-serif;
 
   /* Typography */
-  font-size: 25px;
+  font-size: 18px;
   font-weight: bold;
   color: #B22222;
 }
@@ -231,7 +231,7 @@ body {
 .comparison-header {
   /* Positioning */
   margin-bottom: 10px;
-  font-family: Monospace;
+  font-family: "Gill Sans", sans-serif;
 
   /* Typography */
   font-size: 20px;
