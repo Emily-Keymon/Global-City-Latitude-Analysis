@@ -4,6 +4,9 @@
 The goal of this project was to develop a website using HTML, CSS and Bootstrap to present the results from the Global Weather Data Analysis project.  
 
 ---
+## Tools Used
+* Python - Pandas, OS
+* HTML, CSS, Bootstrap
 
 ## Does the weather change the closer you get to the equator? Let's use data to find out! 
 * A Python script was written to visualize the weather of over 500 cities across the world with varying distances from the equator. 
