@@ -2,6 +2,7 @@
 
 # Global City Latitude Analysis
 The goal of this project was to develop a website using HTML, CSS and Bootstrap to present the results from the Global Weather Data Analysis project.  
+
 ----
 
 ## Does the weather change the closer you get to the equator? Let's use data to find out! 
