@@ -8,6 +8,7 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 
 ---
 ## Tools Used
+* PyCharm - Python IDE
 * Jupyter Notebook
 * Python - Pandas, OS
 * HTML, CSS, Bootstrap
