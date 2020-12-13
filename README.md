@@ -1,7 +1,7 @@
 ### Click here for website:  https://emily-keymon.github.io/Global-City-Latitude-Analysis/
 
 # Global City Latitude Analysis
-The goal of this project was to develop a website using HTML, CSS and Bootstrap to present the results from the Global Weather Data Analysis project.  
+The goal of this project was to develop a 7 page website using HTML, CSS and Bootstrap to present the results from the Global Weather Data Analysis project.  
 
 ---
 ## Data Sources
@@ -31,16 +31,11 @@ The goal of this project was to develop a website using HTML, CSS and Bootstrap 
 2.  Used a Bootstrap gird for the visualizations.
 
 ### Data page
-1.  
+1.  Used Python Pandas and OS to convert `.csv` file to HTML.
+2.  Created a data page that contains a responsive table of the data used in visualizations.
 
 
-## The website consist of 7 pages total, including:
 
- 
-* A data-page that:
-  * Displays a responsive table containing the data used in the visualizations.
-  * The data came from a `.csv` file and was converted to HTML using Pandas in Python.
-  
 * The website has a navigation menu at the top of every page that:
   * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
   * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
