@@ -22,7 +22,7 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 4.  Coded HTML to ensure responsiveness by any media queries.
 
 ### Landing page
-1.  Using HTML, CSS and Bootstrap, created a navigation bar with header, dropdown menu with links to each visualization page, comparison page and data page.
+1.  Created a navigation bar with header, dropdown menu with links to each visualization page, comparison page and data page.
 2.  Created a home page with a project summary.
 3.  Created a sidebar containing preview images of each plot.  Clicking an image takes the user to that visualization.
 
