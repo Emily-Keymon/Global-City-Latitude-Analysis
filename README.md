@@ -1,5 +1,3 @@
-### Click here for website:  https://emily-keymon.github.io/Global-City-Latitude-Analysis/
-
 # Global City Latitude Analysis
 The goal of this project was to develop a 7 page website using HTML, CSS and Bootstrap to present the results from the Global Weather Data Analysis project.  
 
@@ -42,6 +40,7 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 
 ---
 ## Results
+### Click here for website:  https://emily-keymon.github.io/Global-City-Latitude-Analysis/
 
 
 
