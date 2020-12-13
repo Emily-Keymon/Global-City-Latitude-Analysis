@@ -16,10 +16,10 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 ---
 ## Tasks
 ### Website creation
-1.  Each page contains a navigation menu at the top of the page.
-2.  Each page has the name of the site on the left of the nav that allows users to return to landing page from any page.
-3.  Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
-4.  Is responsive (using media queries).
+1.  Using HTML, CSS and Bootstrap, created a navigation menu at the top of the page.
+2.  Each page has the name of the site on the left of the navbar that allows users to return to landing page from any page.
+3.  Created a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
+4.  Coded HTML to ensure responsiveness by any media queries.
 
 ### Landing page
 1.  Using HTML, CSS and Bootstrap, created a navigation bar with header, dropdown menu with links to each visualization page, comparison page and data page.
@@ -39,6 +39,9 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 ### Data page
 1.  Used Python Pandas and OS to convert `.csv` file to HTML.
 2.  Created a data page that contains a responsive table of the data used in visualizations.
+
+---
+## Results
 
 
 
