@@ -42,6 +42,8 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 ---
 ## Results
 ### Click here for website:  https://emily-keymon.github.io/Global-City-Latitude-Analysis/
+![website](https://user-images.githubusercontent.com/64673015/102019773-e38d0700-3d3a-11eb-978f-166b10f9d334.PNG)
+
 
 
 
