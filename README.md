@@ -3,7 +3,7 @@ The goal of this project was to develop a 7 page website using HTML, CSS and Boo
 
 ---
 ## Data Sources
-*  https://github.com/Emily-Keymon/Global-Weather-Data-Analysis
+*  https://github.com/Emily-Keymon/Global-Weather-Data-Analysis/blob/master/output_data/cities.csv
 *  https://openweathermap.org/api
 
 ---
